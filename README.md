@@ -5,13 +5,17 @@ This project consists of two parts: a frontend dashboard for managing tasks and 
 fist start server
 
 cd api 
+
 npm i
+
 npm start
 
 second start client side
 
 cd dashboard
+
 npm i
+
 npm run dev
 
 
