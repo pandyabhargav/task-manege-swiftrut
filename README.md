@@ -9,6 +9,7 @@ Open your terminal and navigate to the API directory:
 cd api
 
 Install the dependencies:
+
 npm i
 
 Run the server:
