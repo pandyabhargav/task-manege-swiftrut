@@ -6,26 +6,31 @@ This project consists of two parts: a frontend dashboard for managing tasks and 
 Step 1: Start the Backend API Server
 
 Open your terminal and navigate to the API directory:
-cd api
+
+**cd api**
 
 Install the dependencies:
 
-npm i
+**npm i**
 
 Run the server:
-npm starts
+
+**npm starts**
 
 
 Step 2: Start the Frontend Dashboard
 
 Switch to the dashboard directory:
-cd dashboard
+
+**cd dashboard**
 
 Install the necessary packages:
-npm i
+
+**npm i**
 
 Start the development server:
-npm run dev
+
+**npm run dev**
 
 🛠️ How to Use the Dashboard
 1. Add Priorities
